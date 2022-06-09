@@ -25,6 +25,6 @@ Open the repo in VS Code. Right click on the HTML file and select "Open with Liv
 
 #
 <div align=right>
-  <h6>README.md created with thanks to:
-  <br>Markdown Badges: <a href="https://github.com/Ileriayo/markdown-badges">Ileriayo</a></h6>
+  <h6>Project created with thanks to: <a href="https://github.com/bradtraversy">Brad Traversy</a>
+  <br>README.md created with thanks to: <a href="https://github.com/Ileriayo/markdown-badges">Ileriayo</a></h6>
 </div>
