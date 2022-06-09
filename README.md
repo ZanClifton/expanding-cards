@@ -13,8 +13,8 @@ Displays one image of five with a title when clicked on. The other 4 images fold
 
 Terminal Commands:
 ```
-$ git clone https://github.com/ZanClifton/shrelly-mail-api.git
-$ cd shrelly-mail-api
+$ git clone https://github.com/ZanClifton/expanding-cards.git
+$ cd expanding-cards
 $ code .
 ```
 
